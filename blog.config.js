@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'STR',
   author: 'borui',
-  email: 'Mr.Strawberry@outlook.com',
+  email: 'boruiqiao@gmail.com',
   link: 'https://blog.borui.fun',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
